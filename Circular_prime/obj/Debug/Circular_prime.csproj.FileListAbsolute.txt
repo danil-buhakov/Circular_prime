@@ -1,0 +1,6 @@
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\bin\Debug\Circular_prime.exe.config
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\bin\Debug\Circular_prime.exe
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\bin\Debug\Circular_prime.pdb
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\obj\Debug\Circular_prime.csprojResolveAssemblyReference.cache
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\obj\Debug\Circular_prime.exe
+C:\Programming\Circular_prime\Circular_prime\Circular_prime\obj\Debug\Circular_prime.pdb
